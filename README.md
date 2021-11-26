@@ -20,6 +20,6 @@ lancer le script main.py
 
 
 ## Auteurs
-Zoubida AFOUTNI
+
 
 
